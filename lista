@@ -1,0 +1,243 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="BandSports" tvg-name="BAND SPORTS" tvg-logo="http://img.starbr.in/1516239642_ce097a9c842de59c059fdfa7821f72ef817eec75.jpg" group-title="Esportes",BAND SPORTS
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/1106
+#EXTINF:-1 tvg-id="BandSports" tvg-name="BAND SPORTS FULL HD" tvg-logo="http://img.starbr.in/1516239642_ce097a9c842de59c059fdfa7821f72ef817eec75.jpg" group-title="Esportes",BAND SPORTS FULL HD
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/5034
+#EXTINF:-1 tvg-id="BandSports" tvg-name="BAND SPORTS HD" tvg-logo="http://img.starbr.in/1516239642_ce097a9c842de59c059fdfa7821f72ef817eec75.jpg" group-title="Esportes",BAND SPORTS HD
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/2407
+#EXTINF:-1 tvg-id="Combate" tvg-name="COMBATE FULL HD" tvg-logo="http://img.starbr.in/1516242013_90e9f2f32a088eaf9a40dbeb88887f9758e0506b.png" group-title="Esportes",COMBATE FULL HD
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/18019
+#EXTINF:-1 tvg-id="Combate" tvg-name="COMBATE HD" tvg-logo="http://img.starbr.in/1516242013_90e9f2f32a088eaf9a40dbeb88887f9758e0506b.png" group-title="Esportes",COMBATE HD
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/1088
+#EXTINF:-1 tvg-id="Combate" tvg-name="COMBATE SD 1" tvg-logo="http://img.starbr.in/1516242013_90e9f2f32a088eaf9a40dbeb88887f9758e0506b.png" group-title="Esportes",COMBATE SD 1
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/38746
+#EXTINF:-1 tvg-id="Combate" tvg-name="COMBATE SD 2" tvg-logo="http://img.starbr.in/1516242013_90e9f2f32a088eaf9a40dbeb88887f9758e0506b.png" group-title="Esportes",COMBATE SD 2
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/38745
+#EXTINF:-1 tvg-id="Combate" tvg-name="COMBATE SD 3" tvg-logo="http://img.starbr.in/1516242013_90e9f2f32a088eaf9a40dbeb88887f9758e0506b.png" group-title="Esportes",COMBATE SD 3
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/38744
+#EXTINF:-1 tvg-id="Combate" tvg-name="COMBATE SD 4" tvg-logo="http://img.starbr.in/1516242013_90e9f2f32a088eaf9a40dbeb88887f9758e0506b.png" group-title="Esportes",COMBATE SD 4
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/1089
+#EXTINF:-1 tvg-id="Combate" tvg-name="COMBATE SD+" tvg-logo="http://img.starbr.in/1516242013_90e9f2f32a088eaf9a40dbeb88887f9758e0506b.png" group-title="Esportes",COMBATE SD+
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/22442
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN 1 FULL HD" tvg-logo="http://img.starbr.in/1516306420_45fec84e387e19225b7a3037065d0418f6ec3a85.jpg" group-title="Esportes",ESPN 1 FULL HD
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/26044
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN 1 HD" tvg-logo="http://img.starbr.in/1516306420_45fec84e387e19225b7a3037065d0418f6ec3a85.jpg" group-title="Esportes",ESPN 1 HD
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/1129
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN 1 HD+" tvg-logo="http://img.starbr.in/1516306420_45fec84e387e19225b7a3037065d0418f6ec3a85.jpg" group-title="Esportes",ESPN 1 HD+
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/38753
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN 1 SD 1" tvg-logo="http://img.starbr.in/1516306420_45fec84e387e19225b7a3037065d0418f6ec3a85.jpg" group-title="Esportes",ESPN 1 SD 1
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/38754
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN 1 SD 2" tvg-logo="http://img.starbr.in/1516306420_45fec84e387e19225b7a3037065d0418f6ec3a85.jpg" group-title="Esportes",ESPN 1 SD 2
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/1718
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN 1 SD+" tvg-logo="http://img.starbr.in/1516306420_45fec84e387e19225b7a3037065d0418f6ec3a85.jpg" group-title="Esportes",ESPN 1 SD+
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/38387
+#EXTINF:-1 tvg-id="ESPN +" tvg-name="ESPN 2 FULL HD" tvg-logo="http://img.starbr.in/1516306420_45fec84e387e19225b7a3037065d0418f6ec3a85.jpg" group-title="Esportes",ESPN 2 FULL HD
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/26043
+#EXTINF:-1 tvg-id="ESPN +" tvg-name="ESPN 2 HD" tvg-logo="http://img.starbr.in/1516306636_b946767d882ebffa31375652a2cc3921182e335c.png" group-title="Esportes",ESPN 2 HD
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/2394
+#EXTINF:-1 tvg-id="ESPN +" tvg-name="ESPN 2 HD+" tvg-logo="http://img.starbr.in/1516306636_b946767d882ebffa31375652a2cc3921182e335c.png" group-title="Esportes",ESPN 2 HD+
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/38755
+#EXTINF:-1 tvg-id="ESPN +" tvg-name="ESPN 2 SD 1" tvg-logo="http://img.starbr.in/1516306636_b946767d882ebffa31375652a2cc3921182e335c.png" group-title="Esportes",ESPN 2 SD 1
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/38756
+#EXTINF:-1 tvg-id="ESPN +" tvg-name="ESPN 2 SD 2" tvg-logo="http://img.starbr.in/1516306636_b946767d882ebffa31375652a2cc3921182e335c.png" group-title="Esportes",ESPN 2 SD 2
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/2395
+#EXTINF:-1 tvg-id="ESPN +" tvg-name="ESPN 2 SD+" tvg-logo="http://img.starbr.in/1516306636_b946767d882ebffa31375652a2cc3921182e335c.png" group-title="Esportes",ESPN 2 SD+
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/38416
+#EXTINF:-1 tvg-id="ESPN Brasil" tvg-name="ESPN BRASIL FULL HD" tvg-logo="http://img.starbr.in/1516306529_3124e1403d7ae1a9822115352d305b323ab0e3f3.png" group-title="Esportes",ESPN BRASIL FULL HD
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/26045
+#EXTINF:-1 tvg-id="ESPN Brasil" tvg-name="ESPN BRASIL HD" tvg-logo="http://img.starbr.in/1516306529_3124e1403d7ae1a9822115352d305b323ab0e3f3.png" group-title="Esportes",ESPN BRASIL HD
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/2387
+#EXTINF:-1 tvg-id="ESPN Brasil" tvg-name="ESPN BRASIL HD+" tvg-logo="http://img.starbr.in/1516306529_3124e1403d7ae1a9822115352d305b323ab0e3f3.png" group-title="Esportes",ESPN BRASIL HD+
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/38757
+#EXTINF:-1 tvg-id="ESPN Brasil" tvg-name="ESPN BRASIL SD 1" tvg-logo="http://img.starbr.in/1516306529_3124e1403d7ae1a9822115352d305b323ab0e3f3.png" group-title="Esportes",ESPN BRASIL SD 1
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/38758
+#EXTINF:-1 tvg-id="ESPN Brasil" tvg-name="ESPN BRASIL SD 2" tvg-logo="http://img.starbr.in/1516306529_3124e1403d7ae1a9822115352d305b323ab0e3f3.png" group-title="Esportes",ESPN BRASIL SD 2
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/1060
+#EXTINF:-1 tvg-id="ESPN Brasil" tvg-name="ESPN BRASIL SD+" tvg-logo="http://img.starbr.in/1516306529_3124e1403d7ae1a9822115352d305b323ab0e3f3.png" group-title="Esportes",ESPN BRASIL SD+
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/38415
+#EXTINF:-1 tvg-id="ESPN EXTRA" tvg-name="ESPN EXTRA HD" tvg-logo="http://img.starbr.in/1516306420_45fec84e387e19225b7a3037065d0418f6ec3a85.jpg" group-title="Esportes",ESPN EXTRA HD
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/20813
+#EXTINF:-1 tvg-id="ESPN EXTRA" tvg-name="ESPN EXTRA HD+" tvg-logo="http://img.starbr.in/1516306420_45fec84e387e19225b7a3037065d0418f6ec3a85.jpg" group-title="Esportes",ESPN EXTRA HD+
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/38759
+#EXTINF:-1 tvg-id="ESPN EXTRA" tvg-name="ESPN EXTRA SD 1" tvg-logo="http://img.starbr.in/1516306420_45fec84e387e19225b7a3037065d0418f6ec3a85.jpg" group-title="Esportes",ESPN EXTRA SD 1
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/20812
+#EXTINF:-1 tvg-id="ESPN EXTRA" tvg-name="ESPN EXTRA SD 2" tvg-logo="http://img.starbr.in/1516306420_45fec84e387e19225b7a3037065d0418f6ec3a85.jpg" group-title="Esportes",ESPN EXTRA SD 2
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/40435
+#EXTINF:-1 tvg-id="ESPN EXTRA" tvg-name="ESPN EXTRA SD+" tvg-logo="http://img.starbr.in/1516306420_45fec84e387e19225b7a3037065d0418f6ec3a85.jpg" group-title="Esportes",ESPN EXTRA SD+
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/38417
+#EXTINF:-1 tvg-id="FoxSports" tvg-name="FOX SPORTS" tvg-logo="http://img.starbr.in/1516307827_47a370d229281c0970459096366ddbbe12357919.png" group-title="Esportes",FOX SPORTS
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/2391
+#EXTINF:-1 tvg-id="FoxSports" tvg-name="FOX SPORTS 2" tvg-logo="http://img.starbr.in/1516307934_b476a94f3a9f4bdd0feb9b6086d5a273b5ad1c2e.jpg" group-title="Esportes",FOX SPORTS 2
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/1717
+#EXTINF:-1 tvg-id="FoxSports 2" tvg-name="FOX SPORTS 2 FULL HD" tvg-logo="http://img.starbr.in/1516307934_b476a94f3a9f4bdd0feb9b6086d5a273b5ad1c2e.jpg" group-title="Esportes",FOX SPORTS 2 FULL HD
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/26031
+#EXTINF:-1 tvg-id="FoxSports 2" tvg-name="FOX SPORTS 2 HD" tvg-logo="http://img.starbr.in/1516307934_b476a94f3a9f4bdd0feb9b6086d5a273b5ad1c2e.jpg" group-title="Esportes",FOX SPORTS 2 HD
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/1031
+#EXTINF:-1 tvg-id="FoxSports" tvg-name="FOX SPORTS FULL HD" tvg-logo="http://img.starbr.in/1516307827_47a370d229281c0970459096366ddbbe12357919.png" group-title="Esportes",FOX SPORTS FULL HD
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/18021
+#EXTINF:-1 tvg-id="FoxSports" tvg-name="FOX SPORTS HD" tvg-logo="http://img.starbr.in/1516307827_47a370d229281c0970459096366ddbbe12357919.png" group-title="Esportes",FOX SPORTS HD
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/1033
+#EXTINF:-1 tvg-id="SporTV" tvg-name="SPORTV 1 FULL HD" tvg-logo="http://img.starbr.in/1516325501_a57d469ee395de417336e66ec14dd41ddbf22918.png" group-title="Esportes",SPORTV 1 FULL HD
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/5067
+#EXTINF:-1 tvg-id="SporTV" tvg-name="SPORTV 1 HD" tvg-logo="http://img.starbr.in/1516325501_a57d469ee395de417336e66ec14dd41ddbf22918.png" group-title="Esportes",SPORTV 1 HD
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/1203
+#EXTINF:-1 tvg-id="SporTV" tvg-name="SPORTV 1 SD 1" tvg-logo="http://img.starbr.in/1516325501_a57d469ee395de417336e66ec14dd41ddbf22918.png" group-title="Esportes",SPORTV 1 SD 1
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/38705
+#EXTINF:-1 tvg-id="SporTV" tvg-name="SPORTV 1 SD 2" tvg-logo="http://img.starbr.in/1516325501_a57d469ee395de417336e66ec14dd41ddbf22918.png" group-title="Esportes",SPORTV 1 SD 2
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/38706
+#EXTINF:-1 tvg-id="SporTV" tvg-name="SPORTV 1 SD 3" tvg-logo="http://img.starbr.in/1516325501_a57d469ee395de417336e66ec14dd41ddbf22918.png" group-title="Esportes",SPORTV 1 SD 3
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/38707
+#EXTINF:-1 tvg-id="SporTV" tvg-name="SPORTV 1 SD 4" tvg-logo="http://img.starbr.in/1516325501_a57d469ee395de417336e66ec14dd41ddbf22918.png" group-title="Esportes",SPORTV 1 SD 4
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/943
+#EXTINF:-1 tvg-id="SporTV" tvg-name="SPORTV 1 SD+" tvg-logo="http://img.starbr.in/1516325501_a57d469ee395de417336e66ec14dd41ddbf22918.png" group-title="Esportes",SPORTV 1 SD+
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/22446
+#EXTINF:-1 tvg-id="SporTV 2" tvg-name="SPORTV 2 FULL HD" tvg-logo="http://img.starbr.in/1516325624_37a7dacc74e5ee85edf0c0c2074a56e4bb894bca.png" group-title="Esportes",SPORTV 2 FULL HD
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/26030
+#EXTINF:-1 tvg-id="SporTV 2" tvg-name="SPORTV 2 HD" tvg-logo="http://img.starbr.in/1516325624_37a7dacc74e5ee85edf0c0c2074a56e4bb894bca.png" group-title="Esportes",SPORTV 2 HD
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/2401
+#EXTINF:-1 tvg-id="SporTV 2" tvg-name="SPORTV 2 SD 1" tvg-logo="http://img.starbr.in/1516325624_37a7dacc74e5ee85edf0c0c2074a56e4bb894bca.png" group-title="Esportes",SPORTV 2 SD 1
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/38710
+#EXTINF:-1 tvg-id="SporTV 2" tvg-name="SPORTV 2 SD 2" tvg-logo="http://img.starbr.in/1516325624_37a7dacc74e5ee85edf0c0c2074a56e4bb894bca.png" group-title="Esportes",SPORTV 2 SD 2
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/38709
+#EXTINF:-1 tvg-id="SporTV 2" tvg-name="SPORTV 2 SD 3" tvg-logo="http://img.starbr.in/1516325624_37a7dacc74e5ee85edf0c0c2074a56e4bb894bca.png" group-title="Esportes",SPORTV 2 SD 3
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/38708
+#EXTINF:-1 tvg-id="SporTV 2" tvg-name="SPORTV 2 SD 4" tvg-logo="http://img.starbr.in/1516325624_37a7dacc74e5ee85edf0c0c2074a56e4bb894bca.png" group-title="Esportes",SPORTV 2 SD 4
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/942
+#EXTINF:-1 tvg-id="SporTV 2" tvg-name="SPORTV 2 SD+" tvg-logo="http://img.starbr.in/1516325624_37a7dacc74e5ee85edf0c0c2074a56e4bb894bca.png" group-title="Esportes",SPORTV 2 SD+
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/22450
+#EXTINF:-1 tvg-id="SporTV 3" tvg-name="SPORTV 3 FULL HD" tvg-logo="http://img.starbr.in/1516325799_6c9c20301539587d987cf1d0a7ae9bdadeedc9a8.png" group-title="Esportes",SPORTV 3 FULL HD
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/26010
+#EXTINF:-1 tvg-id="SporTV 3" tvg-name="SPORTV 3 HD" tvg-logo="http://img.starbr.in/1516325799_6c9c20301539587d987cf1d0a7ae9bdadeedc9a8.png" group-title="Esportes",SPORTV 3 HD
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/2402
+#EXTINF:-1 tvg-id="SporTV 3" tvg-name="SPORTV 3 SD 1" tvg-logo="http://img.starbr.in/1516325799_6c9c20301539587d987cf1d0a7ae9bdadeedc9a8.png" group-title="Esportes",SPORTV 3 SD 1
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/38713
+#EXTINF:-1 tvg-id="SporTV 3" tvg-name="SPORTV 3 SD 2" tvg-logo="http://img.starbr.in/1516325799_6c9c20301539587d987cf1d0a7ae9bdadeedc9a8.png" group-title="Esportes",SPORTV 3 SD 2
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/38712
+#EXTINF:-1 tvg-id="SporTV 3" tvg-name="SPORTV 3 SD 3" tvg-logo="http://img.starbr.in/1516325799_6c9c20301539587d987cf1d0a7ae9bdadeedc9a8.png" group-title="Esportes",SPORTV 3 SD 3
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/38711
+#EXTINF:-1 tvg-id="SporTV 3" tvg-name="SPORTV 3 SD 4" tvg-logo="http://img.starbr.in/1516325799_6c9c20301539587d987cf1d0a7ae9bdadeedc9a8.png" group-title="Esportes",SPORTV 3 SD 4
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/941
+#EXTINF:-1 tvg-id="SporTV 3" tvg-name="SPORTV 3 SD+" tvg-logo="http://img.starbr.in/1516325799_6c9c20301539587d987cf1d0a7ae9bdadeedc9a8.png" group-title="Esportes",SPORTV 3 SD+
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/22454
+#EXTINF:-1 tvg-id="Premiere 2" tvg-name="PREMIERE 2 FULL HD" tvg-logo="http://img.starbr.in/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="Esportes",PREMIERE 2 FULL HD
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/5062
+#EXTINF:-1 tvg-id="Premiere 2" tvg-name="PREMIERE 2 HD" tvg-logo="http://img.starbr.in/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="Esportes",PREMIERE 2 HD
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/1213
+#EXTINF:-1 tvg-id="Premiere 2" tvg-name="PREMIERE 2 SD 1" tvg-logo="http://img.starbr.in/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="Esportes",PREMIERE 2 SD 1
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/38788
+#EXTINF:-1 tvg-id="Premiere 2" tvg-name="PREMIERE 2 SD 2" tvg-logo="http://img.starbr.in/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="Esportes",PREMIERE 2 SD 2
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/38787
+#EXTINF:-1 tvg-id="Premiere 2" tvg-name="PREMIERE 2 SD 3" tvg-logo="http://img.starbr.in/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="Esportes",PREMIERE 2 SD 3
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/38786
+#EXTINF:-1 tvg-id="Premiere 2" tvg-name="PREMIERE 2 SD 4" tvg-logo="http://img.starbr.in/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="Esportes",PREMIERE 2 SD 4
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/978
+#EXTINF:-1 tvg-id="Premiere 2" tvg-name="PREMIERE 2 SD+" tvg-logo="http://img.starbr.in/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="Esportes",PREMIERE 2 SD+
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/25254
+#EXTINF:-1 tvg-id="Premiere 3" tvg-name="PREMIERE 3 FULL HD" tvg-logo="http://img.starbr.in/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="Esportes",PREMIERE 3 FULL HD
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/18023
+#EXTINF:-1 tvg-id="Premiere 3" tvg-name="PREMIERE 3 HD" tvg-logo="http://img.starbr.in/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="Esportes",PREMIERE 3 HD
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/1214
+#EXTINF:-1 tvg-id="Premiere 3" tvg-name="PREMIERE 3 SD 1" tvg-logo="http://img.starbr.in/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="Esportes",PREMIERE 3 SD 1
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/38791
+#EXTINF:-1 tvg-id="Premiere 3" tvg-name="PREMIERE 3 SD 2" tvg-logo="http://img.starbr.in/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="Esportes",PREMIERE 3 SD 2
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/38790
+#EXTINF:-1 tvg-id="Premiere 3" tvg-name="PREMIERE 3 SD 3" tvg-logo="http://img.starbr.in/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="Esportes",PREMIERE 3 SD 3
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/38789
+#EXTINF:-1 tvg-id="Premiere 3" tvg-name="PREMIERE 3 SD 4" tvg-logo="http://img.starbr.in/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="Esportes",PREMIERE 3 SD 4
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/977
+#EXTINF:-1 tvg-id="Premiere 3" tvg-name="PREMIERE 3 SD+" tvg-logo="http://img.starbr.in/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="Esportes",PREMIERE 3 SD+
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/25238
+#EXTINF:-1 tvg-id="Premiere 4" tvg-name="PREMIERE 4 FULL HD" tvg-logo="http://img.starbr.in/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="Esportes",PREMIERE 4 FULL HD
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/5063
+#EXTINF:-1 tvg-id="Premiere 4" tvg-name="PREMIERE 4 HD" tvg-logo="http://img.starbr.in/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="Esportes",PREMIERE 4 HD
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/1215
+#EXTINF:-1 tvg-id="Premiere 4" tvg-name="PREMIERE 4 SD 1" tvg-logo="http://img.starbr.in/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="Esportes",PREMIERE 4 SD 1
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/38792
+#EXTINF:-1 tvg-id="Premiere 4" tvg-name="PREMIERE 4 SD 2" tvg-logo="http://img.starbr.in/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="Esportes",PREMIERE 4 SD 2
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/38793
+#EXTINF:-1 tvg-id="Premiere 4" tvg-name="PREMIERE 4 SD 3" tvg-logo="http://img.starbr.in/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="Esportes",PREMIERE 4 SD 3
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/38794
+#EXTINF:-1 tvg-id="Premiere 4" tvg-name="PREMIERE 4 SD 4" tvg-logo="http://img.starbr.in/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="Esportes",PREMIERE 4 SD 4
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/976
+#EXTINF:-1 tvg-id="Premiere 4" tvg-name="PREMIERE 4 SD+" tvg-logo="http://img.starbr.in/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="Esportes",PREMIERE 4 SD+
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/25250
+#EXTINF:-1 tvg-id="Premiere 5" tvg-name="PREMIERE 5 FULL HD" tvg-logo="http://img.starbr.in/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="Esportes",PREMIERE 5 FULL HD
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/5064
+#EXTINF:-1 tvg-id="Premiere 5" tvg-name="PREMIERE 5 HD" tvg-logo="http://img.starbr.in/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="Esportes",PREMIERE 5 HD
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/1216
+#EXTINF:-1 tvg-id="Premiere 5" tvg-name="PREMIERE 5 SD 1" tvg-logo="http://img.starbr.in/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="Esportes",PREMIERE 5 SD 1
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/38797
+#EXTINF:-1 tvg-id="Premiere 5" tvg-name="PREMIERE 5 SD 2" tvg-logo="http://img.starbr.in/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="Esportes",PREMIERE 5 SD 2
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/38796
+#EXTINF:-1 tvg-id="Premiere 5" tvg-name="PREMIERE 5 SD 3" tvg-logo="http://img.starbr.in/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="Esportes",PREMIERE 5 SD 3
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/38795
+#EXTINF:-1 tvg-id="Premiere 5" tvg-name="PREMIERE 5 SD 4" tvg-logo="http://img.starbr.in/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="Esportes",PREMIERE 5 SD 4
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/975
+#EXTINF:-1 tvg-id="Premiere 5" tvg-name="PREMIERE 5 SD+" tvg-logo="http://img.starbr.in/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="Esportes",PREMIERE 5 SD+
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/25242
+#EXTINF:-1 tvg-id="Premiere 6" tvg-name="PREMIERE 6 FULL HD" tvg-logo="http://img.starbr.in/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="Esportes",PREMIERE 6 FULL HD
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/18024
+#EXTINF:-1 tvg-id="Premiere 6" tvg-name="PREMIERE 6 HD" tvg-logo="http://img.starbr.in/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="Esportes",PREMIERE 6 HD
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/16211
+#EXTINF:-1 tvg-id="Premiere 6" tvg-name="PREMIERE 6 SD 1" tvg-logo="http://img.starbr.in/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="Esportes",PREMIERE 6 SD 1
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/38800
+#EXTINF:-1 tvg-id="Premiere 6" tvg-name="PREMIERE 6 SD 2" tvg-logo="http://img.starbr.in/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="Esportes",PREMIERE 6 SD 2
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/38799
+#EXTINF:-1 tvg-id="Premiere 6" tvg-name="PREMIERE 6 SD 3" tvg-logo="http://img.starbr.in/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="Esportes",PREMIERE 6 SD 3
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/38798
+#EXTINF:-1 tvg-id="Premiere 6" tvg-name="PREMIERE 6 SD 4" tvg-logo="http://img.starbr.in/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="Esportes",PREMIERE 6 SD 4
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/974
+#EXTINF:-1 tvg-id="Premiere 6" tvg-name="PREMIERE 6 SD+" tvg-logo="http://img.starbr.in/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="Esportes",PREMIERE 6 SD+
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/25757
+#EXTINF:-1 tvg-id="Premiere 7" tvg-name="PREMIERE 7 FULL HD" tvg-logo="http://img.starbr.in/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="Esportes",PREMIERE 7 FULL HD
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/18025
+#EXTINF:-1 tvg-id="Premiere 7" tvg-name="PREMIERE 7 HD" tvg-logo="http://img.starbr.in/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="Esportes",PREMIERE 7 HD
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/16213
+#EXTINF:-1 tvg-id="Premiere 7" tvg-name="PREMIERE 7 SD 1" tvg-logo="http://img.starbr.in/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="Esportes",PREMIERE 7 SD 1
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/38803
+#EXTINF:-1 tvg-id="Premiere 7" tvg-name="PREMIERE 7 SD 2" tvg-logo="http://img.starbr.in/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="Esportes",PREMIERE 7 SD 2
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/38802
+#EXTINF:-1 tvg-id="Premiere 7" tvg-name="PREMIERE 7 SD 3" tvg-logo="http://img.starbr.in/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="Esportes",PREMIERE 7 SD 3
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/38801
+#EXTINF:-1 tvg-id="Premiere 7" tvg-name="PREMIERE 7 SD 4" tvg-logo="http://img.starbr.in/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="Esportes",PREMIERE 7 SD 4
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/973
+#EXTINF:-1 tvg-id="Premiere 7" tvg-name="PREMIERE 7 SD+" tvg-logo="http://img.starbr.in/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="Esportes",PREMIERE 7 SD+
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/30379
+#EXTINF:-1 tvg-id="Premiere 8" tvg-name="PREMIERE 8 HD" tvg-logo="http://img.starbr.in/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="Esportes",PREMIERE 8 HD
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/38359
+#EXTINF:-1 tvg-id="Premiere 8" tvg-name="PREMIERE 8 SD 1" tvg-logo="http://img.starbr.in/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="Esportes",PREMIERE 8 SD 1
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/41343
+#EXTINF:-1 tvg-id="Premiere 8" tvg-name="PREMIERE 8 SD 2" tvg-logo="http://img.starbr.in/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="Esportes",PREMIERE 8 SD 2
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/41344
+#EXTINF:-1 tvg-id="Premiere 8" tvg-name="PREMIERE 8 SD 3" tvg-logo="http://img.starbr.in/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="Esportes",PREMIERE 8 SD 3
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/41345
+#EXTINF:-1 tvg-id="Premiere 8" tvg-name="PREMIERE 8 SD 4" tvg-logo="http://img.starbr.in/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="Esportes",PREMIERE 8 SD 4
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/972
+#EXTINF:-1 tvg-id="Premiere 8" tvg-name="PREMIERE 8 SD+" tvg-logo="http://img.starbr.in/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="Esportes",PREMIERE 8 SD+
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/38358
+#EXTINF:-1 tvg-id="Premiere 9" tvg-name="PREMIERE 9 HD" tvg-logo="http://img.starbr.in/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="Esportes",PREMIERE 9 HD
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/41353
+#EXTINF:-1 tvg-id="Premiere 9" tvg-name="PREMIERE 9 SD 1" tvg-logo="http://img.starbr.in/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="Esportes",PREMIERE 9 SD 1
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/41348
+#EXTINF:-1 tvg-id="Premiere 9" tvg-name="PREMIERE 9 SD 2" tvg-logo="http://img.starbr.in/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="Esportes",PREMIERE 9 SD 2
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/41349
+#EXTINF:-1 tvg-id="Premiere 9" tvg-name="PREMIERE 9 SD 3" tvg-logo="http://img.starbr.in/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="Esportes",PREMIERE 9 SD 3
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/41350
+#EXTINF:-1 tvg-id="Premiere 9" tvg-name="PREMIERE 9 SD 4" tvg-logo="http://img.starbr.in/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="Esportes",PREMIERE 9 SD 4
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/971
+#EXTINF:-1 tvg-id="Premiere 9" tvg-name="PREMIERE 9 SD+" tvg-logo="http://img.starbr.in/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="Esportes",PREMIERE 9 SD+
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/41351
+#EXTINF:-1 tvg-id="Premiere Clube" tvg-name="PREMIERE CLUBES FULL HD" tvg-logo="http://img.starbr.in/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="Esportes",PREMIERE CLUBES FULL HD
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/5065
+#EXTINF:-1 tvg-id="Premiere Clube" tvg-name="PREMIERE CLUBES HD" tvg-logo="http://img.starbr.in/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="Esportes",PREMIERE CLUBES HD
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/1714
+#EXTINF:-1 tvg-id="Premiere Clube" tvg-name="PREMIERE CLUBES SD 1" tvg-logo="http://img.starbr.in/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="Esportes",PREMIERE CLUBES SD 1
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/38672
+#EXTINF:-1 tvg-id="Premiere Clube" tvg-name="PREMIERE CLUBES SD 2" tvg-logo="http://img.starbr.in/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="Esportes",PREMIERE CLUBES SD 2
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/38673
+#EXTINF:-1 tvg-id="Premiere Clube" tvg-name="PREMIERE CLUBES SD 3" tvg-logo="http://img.starbr.in/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="Esportes",PREMIERE CLUBES SD 3
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/38674
+#EXTINF:-1 tvg-id="Premiere Clube" tvg-name="PREMIERE CLUBES SD 4" tvg-logo="http://img.starbr.in/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="Esportes",PREMIERE CLUBES SD 4
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/970
+#EXTINF:-1 tvg-id="Premiere Clube" tvg-name="PREMIERE CLUBES SD+" tvg-logo="http://img.starbr.in/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="Esportes",PREMIERE CLUBES SD+
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/25246
